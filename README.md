@@ -4,7 +4,7 @@ Coded: @NullClock
 1. Download files
 2. Open with Visual Studio Code
 3. Download extension: Live Server
-6. View index.html
+6. Go back onto the folder
 7. Bottom hand right theres gonna be a button to start live server
 8. it will open your default browser
 9. and congrats your on the client!
